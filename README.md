@@ -47,7 +47,6 @@ I am Pov Pisal (he/him) </h2>
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">    
 </a>	&nbsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px"></a>	&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>	&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 	&nbsp;
