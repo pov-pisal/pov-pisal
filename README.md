@@ -61,7 +61,6 @@ I am Pov Pisal (he/him) </h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pov-pisal&show_icons=true&locale=en" alt="pov-pisal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pov-pisal&" alt="pov-pisal" /></p>
 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
